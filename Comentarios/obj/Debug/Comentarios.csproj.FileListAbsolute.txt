@@ -1,0 +1,7 @@
+D:\Eliver\Documents\OPP\Comentarios\bin\Debug\Comentarios.exe.config
+D:\Eliver\Documents\OPP\Comentarios\bin\Debug\Comentarios.exe
+D:\Eliver\Documents\OPP\Comentarios\bin\Debug\Comentarios.pdb
+D:\Eliver\Documents\OPP\Comentarios\obj\Debug\Comentarios.csprojAssemblyReference.cache
+D:\Eliver\Documents\OPP\Comentarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+D:\Eliver\Documents\OPP\Comentarios\obj\Debug\Comentarios.exe
+D:\Eliver\Documents\OPP\Comentarios\obj\Debug\Comentarios.pdb
